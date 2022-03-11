@@ -24,7 +24,7 @@ h2 {
 a {
     margin: 0px;
     padding: 20px 40px;
-    font-size: 30px;
+    font-size: 20px;
     text-decoration: none;
     color: black;
     text-transform: uppercase;
@@ -50,7 +50,7 @@ body {
 .intro {
     padding-top: 80px;
     margin-left: 80px;
-    font-size: 40px;
+    font-size: 20px;
     width: 70%;
     margin-bottom: 20px;
     padding-bottom: 20px;
@@ -62,9 +62,9 @@ body {
     padding-top: 4px;
 }   
 .heading-1{
-    font-size: 100px;
-    margin-top: 300px;
-    font-weight: 40px;
+    font-size: 60px;
+    margin-top: 10px;
+    font-weight: 20px;
     margin-bottom: 3px;
     margin-left: 60px;
     padding-left: 20px;
@@ -72,10 +72,10 @@ body {
 }                     
 .btn {
     color: white;
-    height: 100px;
+    height: 60px;
     width: 30%;
     margin: 40px 80px 20px;
-    font-size: 35px;
+    font-size: 20px;
     background-color: black;
 
 }   
@@ -85,11 +85,10 @@ img {
     opacity: 1;
 }
 .heading-2{
-    font-size: 100px;
-    margin-top: 300px;
-    font-weight: 40px;
+    font-size: 50px;
+    margin-top: 10px;
+    font-weight: 20px;
     margin-bottom: 3px;
-    margin-left: 70px;
     padding-left: 20px;
     width: 100%;
 }   
@@ -98,5 +97,17 @@ img {
     border: 10px solid black;
     margin-top: 0px;
     padding-top: 0px;
-}                  
+}    
+.next {
+    padding-top: 40px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+span {
+
+}       
             
