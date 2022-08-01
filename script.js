@@ -1,7 +1,9 @@
-const hamburger = document.getElementById('handburger');
+"use strict"
+
+const hamburger = document.getElementById('hamburger');
 const navUl= document.getElementById('nav-ul');
 
 hamburger.addEventListener('click', () => {
-    navUl.classList.togle('show');
+    navUl.classList.toggle('show');
 
 })
