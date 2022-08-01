@@ -10,7 +10,7 @@ nav {
     flex-wrap: wrap;
     overflow: hidden;
     justify-content: space-between;
-    background-color: white;
+    background-color: rgb(255, 252, 250);
     align-items: center;
     box-shadow: 10px 5px 10px rgb(173, 161, 161);
 }
